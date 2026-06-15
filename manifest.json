@@ -1,0 +1,21 @@
+{
+  "name": "Scentonomy ThriveWell",
+  "short_name": "Scentonomy",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1c0f5c",
+  "icons": [
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0656/9200/8692/files/PWA_icon_192.png?v=1781562504",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0656/9200/8692/files/PWA_app_icon_512.png?v=1781562504",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
