@@ -1,8 +1,8 @@
 {
   "name": "Scentonomy ThriveWell",
   "short_name": "Scentonomy",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/scentonomythrivewell/",
+  "scope": "/scentonomythrivewell/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1c0f5c",
